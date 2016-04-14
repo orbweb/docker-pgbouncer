@@ -1,0 +1,3 @@
+[submodule "src/pgbouncer"]
+	path = src/pgbouncer
+	url = https://github.com/pgbouncer/pgbouncer.git
